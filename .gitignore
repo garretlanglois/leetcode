@@ -1,3 +1,2 @@
-*.out 
-climbingStairs
-missingNumber
+*
+!*c
